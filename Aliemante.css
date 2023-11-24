@@ -1,0 +1,27 @@
+body {
+	background-color: white;
+}
+
+table{
+	color: darkred;
+}
+table, td, th {
+	margin-left: auto;
+	margin-right: auto;
+	border: 3px solid;
+	border-color: lightcoral;
+	padding: 10px;
+}
+
+th.days {
+	color: blue;
+}
+
+th.BF {
+	color: hotpink;
+}
+
+
+th.HEADER {
+	letter-spacing: 10;
+}
